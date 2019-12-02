@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://cdn.dribbble.com/users/445066/screenshots/3765376/quora-app-dark-ui---ask-a-question.gif">
+  <img width="460" height="300" src="https://cdn.dribbble.com/users/1783310/screenshots/4212183/quora.gif">
 </p>
 
 <h1> 1. Business Problem </h1>
