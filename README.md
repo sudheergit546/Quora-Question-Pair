@@ -1,10 +1,6 @@
 # <p align="center">Quora Question Pair Similarity</p>
 
 
-<p align="center">
-  <img width="460" height="300" src="https://cdn.dribbble.com/users/1783310/screenshots/4212183/quora.gif">
-</p>
-
 <h1> 1. Business Problem </h1>
 
 <h2> 1.1 Description </h2>
