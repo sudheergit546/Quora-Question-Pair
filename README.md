@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://cdn.dribbble.com/users/1783310/screenshots/4212183/quora.gif">
+  <img width="460" height="300" src="https://cdn.dribbble.com/users/1783310/screenshots/4212183/quora.gif?vid=1">
 </p>
 
 <h1> 1. Business Problem </h1>
